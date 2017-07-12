@@ -2,6 +2,11 @@
 layout: default
 ---
 <article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
+    {% if page.language %}
+    <a href="" class="">
+        <span class="social-icon icon-twitter"></span>
+    </a>
+    {% endif %}
     <div class="card-content">
         <header class="post-header">
             <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>

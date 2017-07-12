@@ -7,7 +7,8 @@ layout: default
         <span class="card-title">MAMAMIYEAR'S BLOG</span>
         {% include social.html %}
         <p class="description">{{ site.description }}</p>
-        <a href="about" class="btn">ABOUT</a>
+        <a href="about" class="btn">ABOUT ME</a>
+        <!--<a href="about/zh" class="btn about">关于我</a>-->
     </div>
     <div class="tags card">
         <div class="card-content white-text">
@@ -28,11 +29,10 @@ layout: default
             </ul>
 
             <p class="rss-subscribe">subscribe via
-                <a href="{{ '/feed.xml' | prepend: site.baseurl }}">
+                <a href="{{ '/feed.xml' | prepend: site.baseurl }}" class="btn">
                     <span class="rss-icon">RSS {% include icons/rss.svg %}</span>
                 </a>
             </p>
         </div>
     </div>
-
 </div>
