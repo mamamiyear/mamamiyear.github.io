@@ -4,7 +4,7 @@ title:  	"Git使用及搭建Git服务器的总结"
 date:   	2017-07-11 20:39:45 +0200
 author:     mamamiyear
 categories: tech-summary
-tag:		git ssh
+tag:		git github ssh
 ---
 
 ### Git仓库的概念
@@ -13,7 +13,7 @@ tag:		git ssh
 
 一个存在本机的工程文件夹目录结构如下
 
-图
+![工程目录结构](/assets/Git-and-Git-Server/program-structure.png)
 
 其中file和dir是工程文件及文件夹而不是仓库
 
