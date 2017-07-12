@@ -1,4 +1,11 @@
-# Git使用及搭建Git服务器的总结
+---
+layout: 	post
+title:  	"Git使用及搭建Git服务器的总结"
+date:   	2017-07-11 20:39:45 +0200
+author:     mamamiyear
+categories: tech-summary
+tag:		git ssh
+---
 
 ### Git仓库的概念
 
