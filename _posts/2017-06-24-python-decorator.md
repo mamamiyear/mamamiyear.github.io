@@ -5,6 +5,7 @@ date:   	2017-06-24 19:49:45 +0200
 author:     mamamiyear
 categories: study-notes
 tag:		python
+SN:         2
 ---
 
 ## 函数装饰器
