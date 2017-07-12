@@ -6,8 +6,9 @@ permalink: /about/
 
 |                                   |      |
 | ----                              | ---- |
-|**NAME**:              &emsp;      |Rickey Chin|
+|**NAME**:              &emsp;      |Qian Rui|
 |**SEX**:               &emsp;      |♂ |
+|**ENG NAME**:          &emsp;      |Ricky Chin|
 |**NET NAME**:          &emsp;      |mamamiyear|
 |**DEGREE**:            &emsp;      |MASTER of ENGINEERING|
 |**GRADUATED FROM**:    &emsp;      |UESTC|

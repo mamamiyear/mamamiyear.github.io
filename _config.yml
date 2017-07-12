@@ -22,7 +22,7 @@ description:  有些弯路是一定要走的，有些挫折是必须承受的
 markdown: kramdown
 
 # Copyright
-copyright: ©2017-2020 mamamiyear.me
+copyright: Copyright ©2017 mamamiyear.me under the MIT License
 
 # Jekyll service settings
 host: 0.0.0.0
