@@ -7,8 +7,8 @@
 
 # Site settings
 title: mamamiyear's blog
-baseurl: "" # the sub path of your site, e.g. /blog
-url: "http://mamamiyear.blog.me" # the base hostname & protocol for your site
+baseurl: "/blog" # the sub path of your site, e.g. /blog
+url: "http://mamamiyear.me" # the base hostname & protocol for your site
 
 # Social settings
 email: mamamiyear@163.com
