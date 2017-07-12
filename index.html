@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="home">
+    <div class="top card">
+        <span class="card-title">MAMAMIYEAR'S BLOG</span>
+        {% include social.html %}
+        <p class="description">{{ site.description }}</p>
+        <a href="about" class="btn">ABOUT</a>
+    </div>
+    <div class="tags card">
+        <div class="card-content white-text">
+            <span class="card-title">TAGS</span>
+        </div>
+    </div>
+    <div class="posts card">
+        <div class="card-content white-text">
+            <span class="card-title">BLOGS</span>
+
+            <ul class="post-list">
+                {% for post in site.posts %}
+                <li>
+                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+
+            <p class="rss-subscribe">subscribe via
+                <a href="{{ '/feed.xml' | prepend: site.baseurl }}">
+                    <span class="rss-icon">RSS {% include icons/rss.svg %}</span>
+                </a>
+            </p>
+        </div>
+    </div>
+
+</div>

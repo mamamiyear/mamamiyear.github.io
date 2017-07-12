@@ -1,0 +1,31 @@
+.social {
+  margin: 10px;
+  height: 30px;
+
+  a {
+    margin: 3px;
+    text-decoration: none;
+    position: relative;
+  }
+
+  .social-icon {
+    svg {
+      width: 30px;
+      height: 30px;
+      path {
+        fill: $icon-color;
+      }
+    }
+  }
+  .social-icon:hover {
+    svg {
+      path {
+        fill: $icon-color-hover;
+        transition: $anim-speed;
+      }
+    }
+  }
+}
+
+
+

@@ -1,0 +1,39 @@
+<div class="social">
+
+    {% if site.email %}
+    <a href="mailto:{{site.email}}" class="email">
+        <span class="social-icon icon-email">{% include icons/email.svg %}</span>
+    </a>
+    {% endif %}
+
+    {% if site.twitter %}
+    <a href="https://github.com/{{ site.github }}" class="twitter">
+        <span class="social-icon icon-twitter">{% include icons/twitter.svg %}</span>
+    </a>
+    {% endif %}
+
+    {% if site.weibo %}
+    <a href="http://weibo.com/{{ site.weibo }}" class="weibo">
+        <span class="social-icon icon-weibo">{% include icons/weibo.svg %}</span>
+    </a>
+    {% endif %}
+
+    {% if site.github %}
+    <a href="https://github.com/{{ site.github }}" class="github">
+        <span class="social-icon icon-github">{% include icons/github.svg %}</span>
+    </a>
+    {% endif %}
+
+    {% if site.linkedin %}
+    <a href="https://github.com/{{ site.github }}" class="linkedin">
+        <span class="social-icon icon-linkedin">{% include icons/linkedin.svg %}</span>
+    </a>
+    {% endif %}
+
+    {% if site.instagram %}
+    <a href="https://github.com/{{ site.github }}" class="instagram">
+        <span class="social-icon icon-instagram">{% include icons/instagram.svg %}</span>
+    </a>
+    {% endif %}
+
+</div>
