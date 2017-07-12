@@ -13,7 +13,7 @@ tag:		git github ssh
 
 一个存在本机的工程文件夹目录结构如下
 
-![工程目录结构](/assets/Git-and-Git-Server/program-structure.png)
+![工程目录结构](/assets/program-structure.png)
 
 其中file和dir是工程文件及文件夹而不是仓库
 
