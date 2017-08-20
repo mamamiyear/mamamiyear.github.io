@@ -1,5 +1,6 @@
 ---
 layout: default
+name: index
 ---
 
 <div class="home">
@@ -8,11 +9,11 @@ layout: default
         {% include social.html %}
         <p class="description">{{ site.description }}</p>
         <a href="about" class="btn">ABOUT ME</a>
-        <!--<a href="about/zh" class="btn about">关于我</a>-->
     </div>
     <div class="tags card">
         <div class="card-content white-text">
             <span class="card-title">TAGS</span>
+            {% include tags.html %}
         </div>
     </div>
     <div class="posts card">
@@ -21,7 +22,7 @@ layout: default
 
             <ul class="post-list">
                 {% for post in site.posts %}
-                <li>
+                <li class="{% for t in post.tag %}{{ t }} {% endfor %}">
                     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </li>

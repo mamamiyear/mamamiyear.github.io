@@ -4,7 +4,7 @@ title: The MIT License (MIT)
 permalink: /license/
 ---
 
-#### Copyright (c) 2017 Qian Rui, http://mamamiyear.me
+#### Copyright (c) 2017 Qian Rui, mamamiyear.me
 **<mamamiyear@163.com>**
 
 ---
