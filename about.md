@@ -11,14 +11,14 @@ permalink: /about/
 |**ENG NAME**:          &emsp;      |Ricky Chin|
 |**NET NAME**:          &emsp;      |mamamiyear|
 |**DEGREE**:            &emsp;      |MASTER of ENGINEERING|
-|**GRADUATED FROM**:    &emsp;      |UESTC|
+|**GRADUATED**:         &emsp;      |UESTC|
 |**WORK**:              &emsp;      |HUAWEI Technology Co., Ltd.|
 
 
 |                                |      |
 | ----                           | ---- |
 |**姓名**:            &emsp;      |钱&emsp;睿|
-|**性别**:            &emsp;      |♂ |
+|**性别**:            &emsp;      |男 |
 |**网名**:            &emsp;      |mamamiyear|
 |**学位**:            &emsp;      |工学硕士|
 |**毕业**:            &emsp;      |电子科技大学|
