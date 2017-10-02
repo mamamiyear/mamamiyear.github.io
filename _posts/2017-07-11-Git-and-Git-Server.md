@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title:  	"Git使用及搭建Git服务器的总结"
-date:   	2017-07-11 20:39:45 +0200
+date:   	2017-07-11 20:39:45 +0800
 author:     mamamiyear
 category:   summary
 tag:		[git, github, ssh]

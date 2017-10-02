@@ -1,10 +1,10 @@
 ---
 layout: 	post
 title:  	"python装饰器"
-date:   	2017-06-24 19:49:45 +0200
+date:   	2017-06-24 19:49:45 +0800
 author:     mamamiyear
 category:   note
-tag:		python
+tag:		[python]
 SN:         2
 ---
 
