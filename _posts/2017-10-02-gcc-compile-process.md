@@ -4,7 +4,7 @@ title:     "gcc编译过程简述"
 date:      2017-10-02 21:41:45 +0800
 author:    mamamiyear
 category:  summary
-tag:       [C, gcc]
+tag:       [c, gcc]
 SN:        5
 ---
 
