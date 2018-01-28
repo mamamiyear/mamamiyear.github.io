@@ -179,7 +179,7 @@ USAGE: Allows connection without any specific privileges.
 
 ###七.附注 - 权限中文说明
 
-![权限说明1](../assets/2018-01-28-mysql-create-user-and-grant/Mysql_rights_description1.jpg)
+![权限说明1](/assets/2018-01-28-mysql-create-user-and-grant/Mysql_rights_description1.jpg)
 
-![权限说明2](../assets/2018-01-28-mysql-create-user-and-grant/Mysql_rights_description2.jpg)
+![权限说明2](/assets/2018-01-28-mysql-create-user-and-grant/Mysql_rights_description2.jpg)
 
