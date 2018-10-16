@@ -101,7 +101,7 @@ db.createUser({
 ```mongodb
 db.createUser({
 	user: "mamamiyear",
-	pwd: "qrlovely1314",
+	pwd: "password",
 	customData: {description: "this is manager user."},
 	roles: [
 		{role: "userAdmin", db: "admin"},
