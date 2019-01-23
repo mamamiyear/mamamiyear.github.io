@@ -12,8 +12,8 @@ url: "http://blog.mamamiyear.me" # the base hostname & protocol for your site
 
 # Social settings
 email: mamamiyear@163.com
-weibo:   mamamiyearwar3sc2
-github:  mamamiyear
+weibo: mamamiyearwar3sc2
+github: mamamiyear
 
 # Blogger settings
 description:  有些弯路是一定要走的，有些挫折是必须承受的
@@ -22,7 +22,7 @@ description:  有些弯路是一定要走的，有些挫折是必须承受的
 markdown: kramdown
 
 # Copyright
-copyright: Copyright ©2017 mamamiyear.me
+copyright: Copyright ©2017-2019 mamamiyear.me
 license: The MIT License
 
 # Jekyll service settings
