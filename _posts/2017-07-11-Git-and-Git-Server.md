@@ -14,7 +14,7 @@ SN:         4
 
 一个存在本机的工程文件夹目录结构如下
 
-![工程目录结构](/assets/4-program-structure.png)
+![工程目录结构](/assets/2017-07-11-Git-and-Git-Server/4-program-structure.png)
 
 其中file和dir是工程文件及文件夹而不是仓库
 
