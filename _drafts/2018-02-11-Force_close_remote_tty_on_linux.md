@@ -4,7 +4,7 @@ title:      "强制关闭linux登录"
 date:       2018-02-11 23:50:45 +0800
 author:     mamamiyear
 tag:        [linux]
-SN:         8
+SN:         
 ---
 
 ```Sh

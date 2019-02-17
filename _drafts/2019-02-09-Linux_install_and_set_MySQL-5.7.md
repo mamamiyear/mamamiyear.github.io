@@ -4,7 +4,7 @@ title:      "mysql-5.7安装及配置"
 date:       2019-02-09 02:30:00 +0800
 author:     mamamiyear
 tag:        [mysql]
-SN:         9
+SN:         
 ---
 
 ## 一、安装

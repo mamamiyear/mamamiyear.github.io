@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      "Java Socket学习笔记"
+date:       2019-02-10 01:30:00 +0800
+author:     mamamiyear
+tag:        [mysql]
+SN:         
+---
+
 # Java Socket学习笔记
 
 ### 入门知识

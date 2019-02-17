@@ -4,7 +4,7 @@ title:      "MySql创建用户及授权方法"
 date:       2018-01-28 19:40:45 +0800
 author:     mamamiyear
 tag:        [mysql]
-SN:         7
+SN:         
 ---
 
 ### 一.创建用户: 

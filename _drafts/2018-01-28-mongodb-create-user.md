@@ -4,7 +4,7 @@ title:      "MongoDB创建用户及授权方法"
 date:       2018-01-28 20:05:45 +0800
 author:     mamamiyear
 tag:        [mongodb]
-SN:         8
+SN:         
 ---
 
 ### 1. 创建用户
