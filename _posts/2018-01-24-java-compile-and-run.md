@@ -3,7 +3,6 @@ layout:     post
 title:      "Java编译与执行简述"
 date:       2018-01-24 23:06:45 +0800
 author:     mamamiyear
-category:   summary
 tag:        [java]
 SN:         6
 ---

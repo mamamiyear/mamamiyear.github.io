@@ -1,11 +1,10 @@
 ---
-layout:    post
-title:     "gcc编译过程简述"
-date:      2017-10-02 21:41:45 +0800
-author:    mamamiyear
-category:  summary
-tag:       [c, gcc]
-SN:        5
+layout:     post
+title:      "gcc编译过程简述"
+date:       2017-10-02 21:41:45 +0800
+author:     mamamiyear
+tag:        [c, gcc]
+SN:         5
 ---
 
 ### gcc编译过程简述

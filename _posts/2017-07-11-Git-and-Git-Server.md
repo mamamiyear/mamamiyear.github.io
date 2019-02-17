@@ -1,10 +1,9 @@
 ---
-layout: 	post
-title:  	"Git使用及搭建Git服务器的总结"
-date:   	2017-07-11 20:39:45 +0800
+layout:     post
+title:      "Git使用及搭建Git服务器的总结"
+date:       2017-07-11 20:39:45 +0800
 author:     mamamiyear
-category:   summary
-tag:		[git, github, ssh]
+tag:        [git, github, ssh]
 SN:         4
 ---
 
@@ -130,7 +129,7 @@ git remote add git@192.168.1.1:/home/git/gitRepository/Example.git
 
 ### 小结
 
-到这里，我们基本上明白了仓库的概念与关系，同时也可以搭建简单的个人Git服务器了。 
+到这里，我们基本上明白了仓库的概念与关系，同时也可以搭建简单的个人Git服务器了。
 
 ---
 

@@ -1,10 +1,9 @@
 ---
-layout: 	post
-title:  	"python装饰器"
-date:   	2017-06-24 19:49:45 +0800
+layout:     post
+title:      "python装饰器"
+date:       2017-06-24 19:49:45 +0800
 author:     mamamiyear
-category:   note
-tag:		[python]
+tag:        [python]
 SN:         2
 ---
 
@@ -59,9 +58,9 @@ def decorator(func):
     end = time()
     print func.__name__, "执行耗时", end-start, "秒."
 	return dummy
-    
-    
-@decorator    
+
+
+@decorator
 def function():
     """
     无参函数
