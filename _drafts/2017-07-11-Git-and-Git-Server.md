@@ -5,6 +5,8 @@ date:       2017-07-11 20:39:45 +0800
 author:     mamamiyear
 tag:        [git, github, ssh]
 SN:         4
+
+typora-root-url: ..
 ---
 
 ### Git仓库的概念

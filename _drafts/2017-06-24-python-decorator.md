@@ -5,6 +5,8 @@ date:       2017-06-24 19:49:45 +0800
 author:     mamamiyear
 tag:        [python]
 SN:         2
+
+typora-root-url: ..
 ---
 
 ## 函数装饰器

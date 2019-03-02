@@ -5,6 +5,8 @@ date:       2017-10-02 21:41:45 +0800
 author:     mamamiyear
 tag:        [c, gcc]
 SN:         5
+
+typora-root-url: ..
 ---
 
 ### gcc编译过程简述
