@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Jekyll本地安装及使用"
+title:      "Jekyll本地安装与基本使用"
 date:       2019-01-02 14:00:00 +0800
 author:     mamamiyear
 tag:        [other]
