@@ -92,11 +92,11 @@ sudo gem install jekyll  # 安装 jekyll
 
   - _includes
 
-    你可以加载这些包含部分到你的布局或者文章中以方便重用。可以用这个标签 `{% include file.ext %}` 来把文件 `_includes/file.ext` 包含进来。
+    你可以加载这些包含部分到你的布局或者文章中以方便重用。可以用这个标签 `{% raw %}{% include file.ext %}{% endraw %}` 来把文件 `_includes/file.ext` 包含进来。
 
   - _layouts
 
-    layouts 是包裹在文章外部的模板。布局可以在 YAML 头信息中根据不同文章进行选择。 这将在下一个部分进行介绍。标签 `{{ content }}`可以将content插入页面中。
+    layouts 是包裹在文章外部的模板。布局可以在 YAML 头信息中根据不同文章进行选择。 这将在下一个部分进行介绍。标签 `{% raw %}{{ content }}{% endraw %}`可以将content插入页面中。
 
   - _posts
 
@@ -155,3 +155,4 @@ sudo gem install jekyll  # 安装 jekyll
 
 
 至此，基本上可以开始你的博客之旅了，更多参考请参见[官方中文文档](https://www.jekyll.com.cn/)
+
