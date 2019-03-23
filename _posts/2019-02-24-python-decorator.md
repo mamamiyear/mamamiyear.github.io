@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "python装饰器"
-date:       2017-06-24 19:49:45 +0800
+date:       2019-02-24 20:50:00 +0800
 author:     mamamiyear
 tag:        [python]
-SN:         2
+SN:         4
 
 typora-root-url: ..
 ---
